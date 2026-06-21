@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\UnityWorkSpace\\unityGit\\unity_practice\\practice01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F1A905-076C-8982-9DBF-5C2266C5F130}|Assembly-CSharp.csproj|i:\\unityworkspace\\unitygit\\unity_practice\\practice01\\assets\\scripts\\practice1\\rippleshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{56F1A905-076C-8982-9DBF-5C2266C5F130}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\practice1\\rippleshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F1A905-076C-8982-9DBF-5C2266C5F130}|Assembly-CSharp.csproj|i:\\unityworkspace\\unitygit\\unity_practice\\practice01\\assets\\scripts\\practice1\\ripple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F1A905-076C-8982-9DBF-5C2266C5F130}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\practice1\\ripple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F1A905-076C-8982-9DBF-5C2266C5F130}|Assembly-CSharp.csproj|I:\\UnityWorkSpace\\unityGit\\unity_practice\\practice01\\assets\\scripts\\practice1\\drawshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{56F1A905-076C-8982-9DBF-5C2266C5F130}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\practice1\\drawshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RippleShader.shader",
+              "DocumentMoniker": "I:\\UnityWorkSpace\\unityGit\\unity_practice\\practice01\\Assets\\scripts\\practice1\\RippleShader.shader",
+              "RelativeDocumentMoniker": "Assets\\scripts\\practice1\\RippleShader.shader",
+              "ToolTip": "I:\\UnityWorkSpace\\unityGit\\unity_practice\\practice01\\Assets\\scripts\\practice1\\RippleShader.shader",
+              "RelativeToolTip": "Assets\\scripts\\practice1\\RippleShader.shader",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-21T11:16:01.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawShader.shader",
+              "DocumentMoniker": "I:\\UnityWorkSpace\\unityGit\\unity_practice\\practice01\\Assets\\scripts\\practice1\\DrawShader.shader",
+              "RelativeDocumentMoniker": "Assets\\scripts\\practice1\\DrawShader.shader",
+              "ToolTip": "I:\\UnityWorkSpace\\unityGit\\unity_practice\\practice01\\Assets\\scripts\\practice1\\DrawShader.shader",
+              "RelativeToolTip": "Assets\\scripts\\practice1\\DrawShader.shader",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-21T10:34:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ripple.cs",
+              "DocumentMoniker": "I:\\UnityWorkSpace\\unityGit\\unity_practice\\practice01\\Assets\\scripts\\practice1\\Ripple.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\practice1\\Ripple.cs",
+              "ToolTip": "I:\\UnityWorkSpace\\unityGit\\unity_practice\\practice01\\Assets\\scripts\\practice1\\Ripple.cs",
+              "RelativeToolTip": "Assets\\scripts\\practice1\\Ripple.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:16:09.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
